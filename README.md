@@ -1,4 +1,4 @@
-# <Study-Guide Web Page>
+# Study-Guide Web Page
 
 ## Description
 
