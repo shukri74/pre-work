@@ -3,6 +3,8 @@
 ## Description
 
 Pre-Work project to create a simple website using HTML, CSS, Javascript and Git and GitHub.
+deployed site: https://shukri74.github.io/pre-work/
+
 
 ## Installation
 
